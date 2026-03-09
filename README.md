@@ -37,15 +37,7 @@
 
 ### 🏆 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=T1ma1313&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=T1ma1313&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 📊 Top Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1ma1313&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
