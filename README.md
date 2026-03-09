@@ -1,13 +1,11 @@
 <h1 align="center">👋 Hi there, I'm Tim!</h1>
-<h3 align="center">💻 Computer Science Student at ITMO University · Systems & DevOps Enthusiast</h3>
+<h3 align="center">💻 Computer Science Student at ITMO University · ML</h3>
 
 ---
 
 ### 🧠 About Me  
 - 🎓 Studying **Computer Science** at **ITMO University (Saint Petersburg)**  
 - 💡 Interested in **algorithms**, **systems programming**, and **automation**  
-- 🐧 Passionate about **Linux**, **networking**, and low-level systems  
-- ☁️ Currently exploring **DevOps**, **cloud platforms**, and **containerization**  
 - 🚀 Always building, learning, and improving my skills  
 
 ---
